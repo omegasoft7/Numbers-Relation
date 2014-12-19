@@ -7,6 +7,7 @@ public class DatabseHandler {
 
 	// Variables--------------------------------------------------------------
 	// http://www.tutorialspoint.com/jdbc/jdbc-sample-code.htm
+	//http://tutorials.jenkov.com/jdbc/query.html
 
 	private static Connection conn;
 
