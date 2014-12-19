@@ -22,7 +22,6 @@ public class DatabseHandler {
 
 	public static boolean isConnected() {
 
-		// TODO
 		Statement stmt = null;
 		ResultSet rs = null;
 		try {
@@ -51,7 +50,9 @@ public class DatabseHandler {
 					e.printStackTrace();
 				}
 		}
-
+		
+		//TODO check it for mysql later
+		
 		return false;
 	}
 
